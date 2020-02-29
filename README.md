@@ -8,7 +8,6 @@ A Javascript library for running scripts in quarantine
 - Stays in memory: Once relased, there is no going back
 - Delivery trains everywhere
 - Fully async spread using so-called dirty handshakes
--
 
 ## Contribution Guidlines
 
