@@ -14,6 +14,9 @@ A Javascript library for running scripts in quarantine
 - No remote work. Only commit via big offices and busses.
 - Touch everything. Click is so 1990.
 
+## Installation
+
+- Wait for it
 
 ## Community
 
